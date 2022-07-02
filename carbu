@@ -168,7 +168,6 @@
 {"id":"1150001","enseigne":"Carrefour Market"},
 {"id":"1600001","enseigne":"Carrefour Market"},
 {"id":"1800001","enseigne":"Carrefour Market"},
-{"id":"1960004","enseigne":"Agip"},
 {"id":"1700004","enseigne":"Leclerc"},
 {"id":"1960001","enseigne":"Carrefour Market"},
 {"id":"1120007","enseigne":"Shell"},
@@ -9504,4 +9503,6 @@
 {"id":"1480004","enseigne":"Total"}
 {"id":"1540003","enseigne":"Intermarché"}
 {"id":"1560001","enseigne":"Intermarché Contact"}
+{"id":"1960005","enseigne":"Intermarché Contact"}
+{"id":"1960006","enseigne":"Agip"}
 ]}
