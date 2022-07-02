@@ -126,7 +126,6 @@
 {"id":"20228001","enseigne":"VITO"},
 {"id":"1120006","enseigne":"Total"},
 {"id":"1340002","enseigne":"Total"},
-{"id":"1390007","enseigne":"Agip"},
 {"id":"1190001","enseigne":"Atac"},
 {"id":"1370001","enseigne":"AGIP"},
 {"id":"1470002","enseigne":"Intermarché"},
@@ -138,7 +137,6 @@
 {"id":"1400001","enseigne":"Carrefour Market"},
 {"id":"1460001","enseigne":"Carrefour Market"},
 {"id":"1600002","enseigne":"Carrefour Market"},
-{"id":"1340001","enseigne":"Carrefour Market"},
 {"id":"1000001","enseigne":"Carrefour Market"},
 {"id":"1540001","enseigne":"Carrefour Market"},
 {"id":"1170001","enseigne":"Carrefour"},
@@ -146,7 +144,6 @@
 {"id":"1390001","enseigne":"Carrefour Market"},
 {"id":"1250005","enseigne":"Total"},
 {"id":"1430005","enseigne":"Total"},
-{"id":"1510002","enseigne":"Avia"},
 {"id":"1120004","enseigne":"Système U"},
 {"id":"1350003","enseigne":"Netto"},
 {"id":"1460003","enseigne":"Intermarché"},
@@ -155,7 +152,6 @@
 {"id":"1000008","enseigne":"Carrefour"},
 {"id":"1480001","enseigne":"Carrefour Market"},
 {"id":"1160002","enseigne":"Système U"},
-{"id":"1000006","enseigne":"Casino"},
 {"id":"1170005","enseigne":"Avia"},
 {"id":"1590001","enseigne":"Avia"},
 {"id":"1200001","enseigne":"Carrefour Market"},
@@ -183,7 +179,6 @@
 {"id":"1000009","enseigne":"Intermarché"},
 {"id":"1340003","enseigne":"Intermarché"},
 {"id":"1220001","enseigne":"Carrefour Market"},
-{"id":"1210002","enseigne":"Total"},
 {"id":"1170003","enseigne":"Intermarché"},
 {"id":"1630001","enseigne":"Carrefour Market"},
 {"id":"1980001","enseigne":"Total"},
@@ -194,7 +189,6 @@
 {"id":"1120008","enseigne":"Total"},
 {"id":"1460002","enseigne":"Total"},
 {"id":"1440001","enseigne":"Total"},
-{"id":"1390008","enseigne":"Agip"},
 {"id":"1160003","enseigne":"Intermarché"},
 {"id":"1570001","enseigne":"Intermarché"},
 {"id":"1710001","enseigne":"MIGROS"},
@@ -205,24 +199,20 @@
 {"id":"1430004","enseigne":"Indépendant sans enseigne"},
 {"id":"1210001","enseigne":"Carrefour"},
 {"id":"1390002","enseigne":"Total"},
-{"id":"1560000","enseigne":"Intermarché"},
 {"id":"1250002","enseigne":"BP"},
 {"id":"1310001","enseigne":"Total"},
 {"id":"1290001","enseigne":"Système U"},
-{"id":"1540002","enseigne":"Intermarché"},
 {"id":"1340004","enseigne":"Dyneff"},
 {"id":"1100006","enseigne":"Intermarché"},
 {"id":"1590002","enseigne":"Intermarché Contact"},
 {"id":"1600003","enseigne":"Simply Market"},
 {"id":"1310003","enseigne":"Casino"},
 {"id":"1510003","enseigne":"Carrefour Contact"},
-{"id":"1350001","enseigne":"Carrefour Market"},
 {"id":"1400003","enseigne":"Elan"},
 {"id":"1430003","enseigne":"Agip"},
 {"id":"1360002","enseigne":"Elan"},
 {"id":"1750001","enseigne":"Intermarché"},
 {"id":"1440002","enseigne":"Total"},
-{"id":"1330001","enseigne":"Total"},
 {"id":"1230003","enseigne":"Elan"},
 {"id":"1640001","enseigne":"Elan"},
 {"id":"1630004","enseigne":"Ecomarché"},
@@ -230,7 +220,6 @@
 {"id":"1630003","enseigne":"Intermarché"},
 {"id":"1210003","enseigne":"Leclerc"},
 {"id":"1500004","enseigne":"Avia"},
-{"id":"1240001","enseigne":"Indépendant sans enseigne"},
 {"id":"1800002","enseigne":"Elan"},
 {"id":"1500003","enseigne":"Total"},
 {"id":"1500006","enseigne":"Avia"},
@@ -9501,4 +9490,18 @@
 {"id":"94150002","enseigne":"BP"},
 {"id":"94150008","enseigne":"BP"},
 {"id":"94400001","enseigne":"SIMPLY MARKET"},
-{"id":"94290003","enseigne":"Agip"}]}
+{"id":"94290003","enseigne":"Agip"}
+{"id":"1270003","enseigne":"Elan"}
+{"id":"1330003","enseigne":"Total"}
+{"id":"1340005","enseigne":"Carrefour Market"}
+{"id":"1350004","enseigne":"Carrefour Market"}
+{"id":"1370003","enseigne":"Intermarché"}
+{"id":"1380001","enseigne":"Total"}
+{"id":"1390009","enseigne":"Agip"}
+{"id":"1390010","enseigne":"Intermarché"}
+{"id":"1390011","enseigne":"Shell"}
+{"id":"1400006","enseigne":"Netto"}
+{"id":"1480004","enseigne":"Total"}
+{"id":"1540003","enseigne":"Intermarché"}
+{"id":"1560001","enseigne":"Intermarché Contact"}
+]}
