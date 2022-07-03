@@ -702,7 +702,6 @@
 {"id":"9220001","enseigne":"Indépendant sans enseigne"},
 {"id":"9000003","enseigne":"Total"},
 {"id":"10180001","enseigne":"Intermarché"},
-{"id":"10800001","enseigne":"Total"},
 {"id":"10100004","enseigne":"Leclerc"},
 {"id":"10150002","enseigne":"Intermarché"},
 {"id":"10400002","enseigne":"Carrefour Market"},
@@ -712,19 +711,15 @@
 {"id":"10260001","enseigne":"Total"},
 {"id":"10230002","enseigne":"Elan"},
 {"id":"10123001","enseigne":"Carrefour"},
-{"id":"10430002","enseigne":"Leclerc"},
-{"id":"10410001","enseigne":"Leclerc"},
 {"id":"10270006","enseigne":"Total"},
 {"id":"10270007","enseigne":"Total"},
 {"id":"10000006","enseigne":"Casino"},
 {"id":"10600001","enseigne":"Géant"},
-{"id":"10270005","enseigne":"Carrefour Express"},
 {"id":"10000005","enseigne":"Esso Express"},
 {"id":"10100003","enseigne":"Esso Express"},
 {"id":"10110001","enseigne":"Esso Express"},
 {"id":"10150001","enseigne":"Esso Express"},
 {"id":"10300002","enseigne":"Esso Express"},
-{"id":"10150003","enseigne":"Indépendant sans enseigne"},
 {"id":"10000018","enseigne":"Total"},
 {"id":"10000019","enseigne":"Total Access"},
 {"id":"10000020","enseigne":"Total Access"},
@@ -762,9 +757,6 @@
 {"id":"10200004","enseigne":"ESSO"},
 {"id":"10600005","enseigne":"Esso"},
 {"id":"10120001","enseigne":"Total"},
-{"id":"10120002","enseigne":"Total"},
-{"id":"10500004","enseigne":"Casino"},
-{"id":"10400005","enseigne":"Maximarché"},
 {"id":"10700001","enseigne":"Total"},
 {"id":"11500001","enseigne":"Carrefour Market"},
 {"id":"11100002","enseigne":"Dyneff"},
@@ -9523,8 +9515,10 @@
 {"id":"9300008","enseigne":"Carrefour Contact"},
 {"id":"9350003","enseigne":"Carrefour Contact"},
 {"id":"9500003","enseigne":"Système U"},
-
-
-
-
-]}
+{"id":"10250002","enseigne":"Carrefour Express"},
+{"id":"10270009","enseigne":"Leclerc"},
+{"id":"10270010","enseigne":"Carrefour Express"},
+{"id":"10360001","enseigne":"Avia"},
+{"id":"10410003","enseigne":"Leclerc"},
+{"id":"10500005","enseigne":"Leclerc Express"},
+{"id":"10800007","enseigne":"Intermarché"}]}
